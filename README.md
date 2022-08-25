@@ -1,16 +1,18 @@
 # NinSolarized
 
-A minor font color change to NeoSolarized. Easier to read at night.
+A `NeoSolarized` fork with a minor font color change. Make the code easier to read at night.
+
+**Change:**
 
 ```diff
 -let s:gui_base0       = "#839496"
 +let s:gui_base0       = "#adbcc0"
 ```
 
-From:
+**Before:**
 
 ![before](images/before.png)
 
-To:
+**After:**
 
 ![after](images/after.png)
