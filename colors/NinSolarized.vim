@@ -211,10 +211,9 @@ if &background == "light"
     let s:gui_temp03    =   s:gui_base03
     let s:gui_temp02    =   s:gui_base02
     let s:gui_temp01    =   s:gui_base01
-    let s:gui_temp00    =   s:gui_base00
+    let s:gui_temp00    =   s:gui_base02
     let s:gui_base03    =   s:gui_base3
     let s:gui_base02    =   s:gui_base2
-    let s:gui_base01    =   s:gui_base1
     let s:gui_base00    =   s:gui_base0
     let s:gui_base0     =   s:gui_temp00
     let s:gui_base1     =   s:gui_temp01
